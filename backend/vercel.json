@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "env": {
+    "NODE_ENV": "production",
+    "TOKEN_SECRET_KEY": "62b889c5730d3e808440119f8b85e6ab2c491072c434e9525c0fb8e268dd24d0",
+    "BASE_URL": "https://no-code-app-207ebf1c-0fda-4876-8ef5-f53a2754a135.vercel.app",
+    "PORT": "1111",
+    "OPEN_API_DOCS": "true",
+    "CORS_ORIGIN": "*",
+    "CORS_CREDENTIALS": "true",
+    "CORS_METHODS": "GET,POST,PUT,DELETE,OPTIONS",
+    "CORS_HEADERS": "Content-Type,Authorization,X-App-ID"
+  }
+}
